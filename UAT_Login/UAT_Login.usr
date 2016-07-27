@@ -36,6 +36,7 @@ Version=12.52
 
 [TulipAddins]
 Database=
+ExtJS=
 File Content=
 Insight=
 Mobile=
